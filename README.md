@@ -1,7 +1,5 @@
 # algorithmic_trading
 
-This is a private repository. 
-
 This project aims to explore stock price prediction opportunities caused by a stock's volatility when earnings calls are released. Long-term-short-term (LSTM) models can be very powerful for time-series related predictions, and large-language models (LLMs) can be powerful for leveraging complex patterns within data. Our goal is to see if either of these models (or a combination of the two) can provide reasonable predicitons for a stock's price once earning calls are made public. 
 
 Git basics for beginners / anyone who forgot:
